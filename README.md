@@ -2,7 +2,7 @@
 
 ## About
 
-This project emulates the classic Minesweeper game and display's a custom algorithm used to visualise a game solve in real time (1 step per game update).
+This project emulates the classic Minesweeper game. It generates a minesweeper grid then display's a custom algorithm that visualises and solves a game in real time (1 step per game update).
 
 Game settings can be changed in `src/danielbatchford/minesweeper/Settings.java`
 
